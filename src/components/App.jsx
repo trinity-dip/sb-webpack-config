@@ -14,7 +14,7 @@ const App = () => {
       <section className="hero"></section>
       <main>
         <section>
-          <h1>Oh Hai, React!!!</h1>
+          <h1>Oh Hai, React!</h1>
         </section>
         <img src={anton} alt="Anton in love" width="250" />
         <img src={haus} alt="Anton in love" width="250" />

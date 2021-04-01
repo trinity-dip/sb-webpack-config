@@ -1,8 +1,12 @@
 @use "variables";
 
+
+
+
+
 body {
     margin: 0;
-    background-color: variables.$bg;
+    background-color: variables.$theme-bg;
     color: var(--text);
     font-size: 30px;
 }
@@ -22,3 +26,4 @@ ul {
     max-width: 20px;
     max-height: 20px;
 }
+
